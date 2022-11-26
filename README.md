@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzamil-sikander" alt="muzamil-sikander" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muzamilsikander__" target="blank"><img src="https://img.shields.io/twitter/follow/muzamilsikander__?logo=twitter&style=for-the-badge" alt="muzamilsikander__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muzamilsikander" target="blank"><img src="https://img.shields.io/twitter/follow/muzamilsikander?logo=twitter&style=for-the-badge" alt="muzamilsikander" /></a> </p>
 
 - 🔭 I’m currently working on **ecommerce web**
 
